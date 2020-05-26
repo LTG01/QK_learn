@@ -1,0 +1,12 @@
+使用pyppeteer 下载chromium 报错 或速度慢 
+https://www.jianshu.com/p/1c4666b0a830
+https://blog.csdn.net/qq_41201398/article/details/105107479
+
+
+
+使用方法
+https://www.cnblogs.com/konghui/p/11176032.html
+
+
+缺少google api秘钥，部分功能无法使用
+https://blog.csdn.net/yori_chen/article/details/79654294

@@ -20,4 +20,19 @@ print (int(time.strftime("%m", time.localtime())))
 #     .render("./kkk/line_connect_null.html")
 # )
 
+p='\ue6ce'
+
+# print(p.)
+# s1 = {"zh-CN": "\u4e2d\u56fd"}
+
+# s1 = s1["zh-CN"].encode("utf-8").decode("utf-8")
+#
+# a=p.encode('unicode_escape')
+# c=a.decode('utf-8')
+
+s1 = p.encode().decode('unicode_escape')
+
+print(s1)
+
+# 中国
 

@@ -23,12 +23,14 @@ response = requests.get(url, headers=headers)
 response.encoding=response.apparent_encoding
 text = response.text
 
-driver = webdriver.Chrome()
+# driver = webdriver.Chrome()
+#
+# driver.get(url)
+# driver.implicitly_wait(20)
+#
+# text =driver.page_source
 
-driver.get(url)
-driver.implicitly_wait(20)
 
-text =driver.page_source
 with open('maoyan.html', 'w', encoding='utf-8') as f:
     f.write(text)
 

@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d4cf1fb4-085c-40f5-898b-1666b3c00221" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iii.py" beforeDir="false" afterPath="$PROJECT_DIR$/iii.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10 滑动验证码/20200526/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/10 滑动验证码/20200526/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11 字体反爬/20200528/3.字体反扒_猫眼电影评分.py" beforeDir="false" afterPath="$PROJECT_DIR$/11 字体反爬/20200528/3.字体反扒_猫眼电影评分.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,11 +15,11 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/QK_resource$2__.coverage" NAME="2.字体反扒_大众点评 Coverage Results" MODIFIED="1590817398356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11 字体反爬/20200528" />
     <SUITE FILE_PATH="coverage/QK_resource$ltg.coverage" NAME="ltg Coverage Results" MODIFIED="1590893841049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11 字体反爬/20200528" />
-    <SUITE FILE_PATH="coverage/QK_resource$.coverage" NAME="保温网 Coverage Results" MODIFIED="1590571135436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10 滑动验证码/20200526" />
     <SUITE FILE_PATH="coverage/QK_resource$03_.coverage" NAME="03 解析字体 Coverage Results" MODIFIED="1590719283551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11 字体反爬/01 起点中文网" />
+    <SUITE FILE_PATH="coverage/QK_resource$.coverage" NAME="保温网 Coverage Results" MODIFIED="1590894298479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10 滑动验证码/20200526" />
     <SUITE FILE_PATH="coverage/QK_resource$4_svg.coverage" NAME="4大众点评_svg字体反扒 Coverage Results" MODIFIED="1590832386915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11 字体反爬/20200528" />
     <SUITE FILE_PATH="coverage/QK_resource$test.coverage" NAME="test Coverage Results" MODIFIED="1590850495113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11 字体反爬/20200528" />
-    <SUITE FILE_PATH="coverage/QK_resource$3__.coverage" NAME="3.字体反扒_猫眼电影评分 Coverage Results" MODIFIED="1590813016488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11 字体反爬/20200528" />
+    <SUITE FILE_PATH="coverage/QK_resource$3__.coverage" NAME="3.字体反扒_猫眼电影评分 Coverage Results" MODIFIED="1590894621337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11 字体反爬/20200528" />
     <SUITE FILE_PATH="coverage/QK_resource$1_.coverage" NAME="1字体反扒_中文起点网 Coverage Results" MODIFIED="1590719563934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11 字体反爬/20200528" />
     <SUITE FILE_PATH="coverage/QK_resource$tess.coverage" NAME="tess Coverage Results" MODIFIED="1590558450043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10 滑动验证码/20200526验证码" />
     <SUITE FILE_PATH="coverage/QK_resource$iii.coverage" NAME="iii Coverage Results" MODIFIED="1590726865714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -33,68 +34,104 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/test3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1110">
-              <caret line="2577" selection-start-line="2577" selection-end-line="2577" />
-              <folding>
-                <element signature="e#903#111755#0" />
-                <element signature="e#122415#122949#0" />
-                <element signature="e#122883#126012#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/ltg.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="282" column="69" lean-forward="true" selection-start-line="282" selection-start-column="69" selection-end-line="282" selection-end-column="69" />
-              <folding>
-                <element signature="e#19#34#0" expanded="true" />
-                <element signature="e#2173#2747#0" />
-                <element signature="e#2177#3502#0" />
-                <element signature="e#5341#6558#0" />
-                <element signature="e#5548#5946#0" />
-                <element signature="e#5921#6198#0" />
-                <element signature="e#5356#7032#1" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/html/svgmtsi2020-05-31-10:54:34.svg">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/天天基金_主题基金.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/html/替换之后的-渝利火锅(印象汇店)2020-05-31-10:54:34.html">
+        <entry file="file://$PROJECT_DIR$/10 滑动验证码/20200526验证码/tt.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="203" column="10" selection-start-line="203" selection-start-column="8" selection-end-line="203" selection-end-column="10" />
+            <state relative-caret-position="232">
+              <caret line="102" selection-start-line="102" selection-end-line="105" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/html/cc2020-05-31-10:54:34.svg">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/4大众点评_svg字体反扒.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="624">
+              <caret line="88" column="38" lean-forward="true" selection-start-line="88" selection-start-column="38" selection-end-line="88" selection-end-column="38" />
+              <folding>
+                <element signature="e#19#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/html/bb2020-05-31-10:54:34.svg">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="383">
+              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+              <folding>
+                <element signature="e#12#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10 滑动验证码/20200526验证码/tess.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2796" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10 滑动验证码/20200526验证码/yzm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10 滑动验证码/20200526/保温网.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2700">
+              <caret line="185" column="15" selection-start-line="185" selection-start-column="15" selection-end-line="185" selection-end-column="15" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/1字体反扒_中文起点网.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-18">
+            <state relative-caret-position="825">
               <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
               <folding>
                 <element signature="e#1#17#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/11 字体反爬/02 大众点评/03 替换字体.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="6" column="89" selection-start-line="6" selection-start-column="89" selection-end-line="6" selection-end-column="89" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/2.字体反扒_大众点评.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -131,6 +168,7 @@
       <find>&lt;cc</find>
       <find>推荐</find>
       <find>地址</find>
+      <find>pytesseract</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -149,7 +187,6 @@
         <option value="$PROJECT_DIR$/iii.py" />
         <option value="$PROJECT_DIR$/11 字体反爬/20200528/2.字体反扒_大众点评.py" />
         <option value="$PROJECT_DIR$/11 字体反爬/02 大众点评/02 解析字体.py" />
-        <option value="$PROJECT_DIR$/11 字体反爬/20200528/3.字体反扒_猫眼电影评分.py" />
         <option value="$PROJECT_DIR$/11 字体反爬/20200528/4大众点评_svg字体反扒.py" />
         <option value="$PROJECT_DIR$/11 字体反爬/20200528/资料/dic.py" />
         <option value="$PROJECT_DIR$/11 字体反爬/20200528/test2.py" />
@@ -157,12 +194,14 @@
         <option value="$PROJECT_DIR$/11 字体反爬/20200528/test3.py" />
         <option value="$PROJECT_DIR$/11 字体反爬/20200528/资料/11.html" />
         <option value="$PROJECT_DIR$/11 字体反爬/20200528/ltg.py" />
+        <option value="$PROJECT_DIR$/11 字体反爬/20200528/3.字体反扒_猫眼电影评分.py" />
+        <option value="$PROJECT_DIR$/11 字体反爬/02 大众点评/03 替换字体.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="21" />
-    <option name="y" value="39" />
+    <option name="x" value="432" />
+    <option name="y" value="186" />
     <option name="width" value="1440" />
     <option name="height" value="823" />
   </component>
@@ -184,55 +223,19 @@
             <path>
               <item name="QK_resource" type="b2602c69:ProjectViewProjectNode" />
               <item name="QK_resource" type="462c0819:PsiDirectoryNode" />
-              <item name="11 字体反爬" type="462c0819:PsiDirectoryNode" />
+              <item name="10 滑动验证码" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="QK_resource" type="b2602c69:ProjectViewProjectNode" />
               <item name="QK_resource" type="462c0819:PsiDirectoryNode" />
-              <item name="11 字体反爬" type="462c0819:PsiDirectoryNode" />
-              <item name="20200528" type="462c0819:PsiDirectoryNode" />
+              <item name="10 滑动验证码" type="462c0819:PsiDirectoryNode" />
+              <item name="20200526" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="QK_resource" type="b2602c69:ProjectViewProjectNode" />
               <item name="QK_resource" type="462c0819:PsiDirectoryNode" />
-              <item name="11 字体反爬" type="462c0819:PsiDirectoryNode" />
-              <item name="20200528" type="462c0819:PsiDirectoryNode" />
-              <item name="html" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QK_resource" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QK_resource" type="462c0819:PsiDirectoryNode" />
-              <item name="12 异步爬虫" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QK_resource" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QK_resource" type="462c0819:PsiDirectoryNode" />
-              <item name="12 异步爬虫" type="462c0819:PsiDirectoryNode" />
-              <item name="备课课件代码" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QK_resource" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QK_resource" type="462c0819:PsiDirectoryNode" />
-              <item name="12 异步爬虫" type="462c0819:PsiDirectoryNode" />
-              <item name="备课课件代码" type="462c0819:PsiDirectoryNode" />
-              <item name="03 字体反扒" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QK_resource" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QK_resource" type="462c0819:PsiDirectoryNode" />
-              <item name="12 异步爬虫" type="462c0819:PsiDirectoryNode" />
-              <item name="备课课件代码" type="462c0819:PsiDirectoryNode" />
-              <item name="03 字体反扒" type="462c0819:PsiDirectoryNode" />
-              <item name="代码" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QK_resource" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QK_resource" type="462c0819:PsiDirectoryNode" />
-              <item name="12 异步爬虫" type="462c0819:PsiDirectoryNode" />
-              <item name="备课课件代码" type="462c0819:PsiDirectoryNode" />
-              <item name="03 字体反扒" type="462c0819:PsiDirectoryNode" />
-              <item name="代码" type="462c0819:PsiDirectoryNode" />
-              <item name="03 大众点评-svg" type="462c0819:PsiDirectoryNode" />
+              <item name="10 滑动验证码" type="462c0819:PsiDirectoryNode" />
+              <item name="20200526验证码" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="QK_resource" type="b2602c69:ProjectViewProjectNode" />
@@ -280,8 +283,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ltg">
-    <configuration name="4大众点评_svg字体反扒" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.3.字体反扒_猫眼电影评分">
+    <configuration name="保温网" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="QK_resource" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10 滑动验证码/20200526" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10 滑动验证码/20200526/保温网.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3.字体反扒_猫眼电影评分" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="QK_resource" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -294,7 +319,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11 字体反爬/20200528/4大众点评_svg字体反扒.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11 字体反爬/20200528/3.字体反扒_猫眼电影评分.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -347,28 +372,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="QK_resource" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11 字体反爬/20200528" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11 字体反爬/20200528/test2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="test3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="QK_resource" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -393,11 +396,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.3.字体反扒_猫眼电影评分" />
+        <item itemvalue="Python.保温网" />
         <item itemvalue="Python.ltg" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.test3" />
-        <item itemvalue="Python.test2" />
-        <item itemvalue="Python.4大众点评_svg字体反扒" />
       </list>
     </recent_temporary>
   </component>
@@ -415,19 +418,20 @@
       <workItem from="1590669062889" duration="15577000" />
       <workItem from="1590731258159" duration="382000" />
       <workItem from="1590731657143" duration="2547000" />
-      <workItem from="1590751722161" duration="35885000" />
+      <workItem from="1590751722161" duration="37882000" />
+      <workItem from="1591199624382" duration="635000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77109000" />
+    <option name="totallyTimeSpent" value="79741000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="21" y="39" width="1440" height="823" extended-state="0" />
+    <frame x="432" y="186" width="1440" height="823" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.32403433" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.19027181" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.27683616" />
@@ -437,7 +441,7 @@
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.40677965" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.1440678" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.08192091" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -487,7 +491,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/11 字体反爬/20200528/3.字体反扒_猫眼电影评分.py</url>
-          <line>36</line>
+          <line>38</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -519,81 +523,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/01 起点中文网/02 下载字体.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-44">
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/1.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2167" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/01 起点中文网/font.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/01 起点中文网/03 解析字体.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2925">
-          <caret line="195" column="503" selection-start-line="195" selection-start-column="503" selection-end-line="195" selection-end-column="503" />
-          <folding>
-            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#3;n#p#3;n#div#1;n#div#0;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../venv/lib/python3.6/site-packages/requests/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="790">
-          <caret line="387" selection-start-line="387" selection-end-line="387" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/02 大众点评/03 替换字体.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/02 大众点评/01 获取字体.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-19">
-          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-24" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../venv/lib/python3.6/site-packages/PIL/ImageDraw.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="226">
           <caret line="395" column="26" selection-start-line="395" selection-start-column="23" selection-end-line="395" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/iii.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="32" selection-start-line="32" selection-end-line="32" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -607,49 +540,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/maoyan.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/maoyan.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="65" column="20" lean-forward="true" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="488" selection-start-column="488" selection-end-column="488" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/3.字体反扒_猫眼电影评分.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="20" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/2.字体反扒_大众点评.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1335">
-          <caret line="89" column="14" selection-start-line="14" selection-end-line="18" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/maoyan.xml" />
+    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/1.html" />
     <entry file="file://$PROJECT_DIR$/12 异步爬虫/备课课件代码/03 字体反扒/代码/03 大众点评-svg/大众点评-svg.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/资料/svgmtsi_dm.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/资料/svgmtsi_dm.svg" />
     <entry file="file://$PROJECT_DIR$/12 异步爬虫/备课课件代码/03 字体反扒/代码/03 大众点评-svg/01 请求网页数据.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="113">
@@ -660,69 +556,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/资料/dazhong.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/da2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1119">
-          <caret line="206" column="14" selection-start-line="206" selection-start-column="12" selection-end-line="206" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/sss.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/svgmtsi_dm.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/da3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="203" column="10" selection-start-line="203" selection-start-column="8" selection-end-line="203" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/dazhong1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="206" column="24" selection-start-line="206" selection-start-column="21" selection-end-line="206" selection-end-column="24" />
-          <folding>
-            <element signature="e#22466#22472#0" expanded="true" />
-            <element signature="e#22683#22689#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/资料/dic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="266" selection-start-line="266" selection-end-line="2765" />
-          <folding>
-            <element signature="e#81158#90823#0" />
-            <element signature="e#90972#91339#0" />
-            <element signature="e#91493#204842#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/4大众点评_svg字体反扒.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="82" column="24" selection-end-line="153" />
-          <folding>
-            <element signature="e#19#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/da4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="511" column="33" selection-start-line="511" selection-start-column="32" selection-end-line="511" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/资料/dazhong.html" />
+    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/da2.html" />
+    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/sss.jpg" />
+    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/svgmtsi_dm.html" />
+    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/da3.html" />
+    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/dazhong1.html" />
+    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/资料/dic.py" />
+    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/da4.html" />
     <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/test2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -734,95 +575,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/bb_rt.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/cc_tz.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/bb.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/资料/bb.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/资料/bb_rt.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/资料/cc_tz.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
-          <folding>
-            <element signature="e#12#27#0" expanded="true" />
-            <element signature="e#755#1272#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/资料/11.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/dazhong.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="203" column="10" selection-start-line="203" selection-start-column="8" selection-end-line="203" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/da5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="511" column="34" selection-start-line="511" selection-start-column="34" selection-end-line="511" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/da52020-05-31-00:50:25.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1412">
-          <caret line="203" column="10" selection-start-line="203" selection-start-column="8" selection-end-line="203" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/da5-2020-05-31-00:54:36.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1074">
-          <caret line="213" column="32" lean-forward="true" selection-start-line="213" selection-start-column="32" selection-end-line="213" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/11.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="187" column="38" selection-start-line="187" selection-start-column="38" selection-end-line="187" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/1字体反扒_中文起点网.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18">
-          <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
-          <folding>
-            <element signature="e#1#17#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/bb_rt.html" />
+    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/cc_tz.html" />
+    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/bb.svg" />
+    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/资料/bb.svg" />
+    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/资料/bb_rt.svg" />
+    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/资料/cc_tz.svg" />
+    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/资料/11.html" />
+    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/dazhong.html" />
+    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/da5.html" />
+    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/da52020-05-31-00:50:25.html" />
+    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/da5-2020-05-31-00:54:36.html" />
+    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/11.xml" />
+    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/html/替换之后的-渝利火锅(印象汇店)2020-05-31-01:17:53.html" />
+    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/html/cc2020-05-31-10:54:34.svg" />
+    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/html/bb2020-05-31-10:54:34.svg" />
+    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/html/替换之后的-渝利火锅(印象汇店)2020-05-31-10:54:34.html" />
+    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/html/svgmtsi2020-05-31-10:54:34.svg" />
     <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/test3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1110">
@@ -835,15 +604,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/html/替换之后的-渝利火锅(印象汇店)2020-05-31-01:17:53.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-639" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/ltg.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="282" column="69" lean-forward="true" selection-start-line="282" selection-start-column="69" selection-end-line="282" selection-end-column="69" />
+        <state relative-caret-position="232">
+          <caret line="289" selection-start-line="289" selection-end-line="289" />
           <folding>
             <element signature="e#19#34#0" expanded="true" />
             <element signature="e#2173#2747#0" />
@@ -856,19 +620,134 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/html/cc2020-05-31-10:54:34.svg">
+    <entry file="file://$PROJECT_DIR$/10 滑动验证码/20200526验证码/1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/html/bb2020-05-31-10:54:34.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/html/svgmtsi2020-05-31-10:54:34.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/html/替换之后的-渝利火锅(印象汇店)2020-05-31-10:54:34.html">
+    <entry file="file://$PROJECT_DIR$/10 滑动验证码/20200526验证码/02 极验验证.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="203" column="10" selection-start-line="203" selection-start-column="8" selection-end-line="203" selection-end-column="10" />
+        <state relative-caret-position="-635">
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#408#1062#0" />
+            <element signature="e#1102#2309#0" />
+            <element signature="e#2360#3466#0" />
+            <element signature="e#3498#4694#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/maoyan.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="65" column="20" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/3.字体反扒_猫眼电影评分.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10 滑动验证码/20200526验证码/01 动作链滑动.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iii.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" selection-start-line="32" selection-end-line="32" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10 滑动验证码/20200526/保温网.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2700">
+          <caret line="185" column="15" selection-start-line="185" selection-start-column="15" selection-end-line="185" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/1字体反扒_中文起点网.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
+          <folding>
+            <element signature="e#1#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11 字体反爬/02 大众点评/03 替换字体.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="6" column="89" selection-start-line="6" selection-start-column="89" selection-end-line="6" selection-end-column="89" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/2.字体反扒_大众点评.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/天天基金_主题基金.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/4大众点评_svg字体反扒.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="88" column="38" lean-forward="true" selection-start-line="88" selection-start-column="38" selection-end-line="88" selection-end-column="38" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11 字体反爬/20200528/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+          <folding>
+            <element signature="e#12#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10 滑动验证码/20200526验证码/tess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2796" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10 滑动验证码/20200526验证码/yzm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10 滑动验证码/20200526验证码/tt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="102" selection-start-line="102" selection-end-line="105" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
